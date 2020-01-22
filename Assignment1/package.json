@@ -1,0 +1,27 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "For the ass",
+  "main": "aboutus.html",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keepingshtum/FullStack.git"
+  },
+  "author": "Anant Shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keepingshtum/FullStack/issues"
+  },
+  "homepage": "https://github.com/Keepingshtum/FullStack#readme"
+}
